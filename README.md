@@ -18,4 +18,6 @@ Siguiendo los pasos suministrados por la guia 4, se realizaron las entradas (in1
 
 
 
-# 3)
+# 3)Video
+El video de la implementación se presenta a continuación:
+
