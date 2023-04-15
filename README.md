@@ -18,7 +18,9 @@ Siguiendo los pasos suministrados por la guia 4, se realizaron las entradas (in1
 
 ![Imagen 2](https://github.com/Robotica-2022-I/Lab2_Robotica/blob/main/Panel_de_control.jpg)
 
+# 3)Código de RAPID
+El código empleado para la realización del laboratorio "", se encuentra adjunto.
 
-# 3)Video
+# 4)Video
 El video de la implementación se presenta a continuación:
 
