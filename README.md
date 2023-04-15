@@ -16,7 +16,7 @@ Para el desarrollo de la herramienta 2, se empleó la misma herramienta desarrol
 # 2)Entradas y salidas digitales
 Siguiendo los pasos suministrados por la guia 4, se realizaron las entradas (in1, in2) correspondientes a los botones para el funcionamiento del brazo y la entrada out1 correspondiente a la luz que se debia encender. Para el montaje físico se realizaron los siguientes elementos del tablero:
 
-![Imagen 2] (https://github.com/Robotica-2022-I/Lab2_Robotica/blob/main/Panel_de_control.jpg)
+![Imagen 2](https://github.com/Robotica-2022-I/Lab2_Robotica/blob/main/Panel_de_control.jpg)
 
 
 # 3)Video
