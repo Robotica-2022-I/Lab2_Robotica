@@ -20,9 +20,9 @@ Siguiendo los pasos suministrados por la guia 4, se realizaron las entradas (in1
 
 # 3)Código de RAPID
 El código empleado para la realización del laboratorio "RAPID CODE", se encuentra adjunto.
-
+![texto 1](https://github.com/Robotica-2022-I/Lab2_Robotica/blob/main/RAPID%20CODE.txt)
 # 4)Video
 El video de la implementación se presenta a continuación:
 
-[![Alt text](https://i9.ytimg.com/vi/tu9oznpWT9c/mqdefault.jpg?sqp=CPDC66EG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AKKAgwIABABGEsgTShlMA8=&rs=AOn4CLBUaPlV3byoVYXUV_RCqUSnioaCdA)](https://youtu.be/eaP0EiD75ls)
+![Alt text](https://i9.ytimg.com/vi/tu9oznpWT9c/mqdefault.jpg?sqp=CPDC66EG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AKKAgwIABABGEsgTShlMA8=&rs=AOn4CLBUaPlV3byoVYXUV_RCqUSnioaCdA)](https://youtu.be/eaP0EiD75ls)
 
