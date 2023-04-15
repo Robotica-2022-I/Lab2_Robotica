@@ -24,5 +24,5 @@ El código empleado para la realización del laboratorio "", se encuentra adjunt
 # 4)Video
 El video de la implementación se presenta a continuación:
 
-![Video 1](https://github.com/Robotica-2022-I/Lab2_Robotica/blob/main/Video Lab 2.mp3)
+[![Alt text](https://i9.ytimg.com/vi/tu9oznpWT9c/mqdefault.jpg?sqp=CPDC66EG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AKKAgwIABABGEsgTShlMA8=&rs=AOn4CLBUaPlV3byoVYXUV_RCqUSnioaCdA)](https://youtu.be/tu9oznpWT9c)
 
