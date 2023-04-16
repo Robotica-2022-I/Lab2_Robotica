@@ -23,7 +23,8 @@ Siguiendo los pasos suministrados por la guia 4, se realizaron las entradas (in1
 ![Imagen 2](https://github.com/Robotica-2022-I/Lab2_Robotica/blob/main/Panel_de_control.jpg)
 
 # 3)Código de RAPID
-Para la elaboración del código fue necesario realizar la configuración de entradas y salidas en el software de RobotStudio en el apartado de I/O System, donde se pueden establecer los nombres, funciones, tipos de señal, entre otros. sin embargo esta primera configuración se realiza con el objetivo de tener una base en el código ya que al momento de ejecutar el programa en el HMI puede llegar a ser necesario volver a cambiarlos dependiendo de la conexión del tablero.
+Para la elaboración del código fue necesario realizar la configuración de entradas y salidas en el software de RobotStudio en el apartado de I/O System, donde se pueden establecer los nombres, funciones, tipos de señal, entre otros, sin embargo esta primera configuración se realiza con el objetivo de tener una base en el código ya que al momento de ejecutar el programa en el HMI puede llegar a ser necesario volver a cambiarlos dependiendo de la conexión del tablero.
+
 El código empleado para la realización del laboratorio "RAPID CODE", se encuentra adjunto.
 
 https://github.com/Robotica-2022-I/Lab2_Robotica/blob/main/RAPID%20CODE.txt
