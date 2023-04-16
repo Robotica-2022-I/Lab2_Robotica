@@ -22,13 +22,9 @@ Siguiendo los pasos suministrados por la guia 4, se realizaron las entradas (in1
 El código empleado para la realización del laboratorio "RAPID CODE", se encuentra adjunto.
 (https://github.com/Robotica-2022-I/Lab2_Robotica/blob/main/RAPID%20CODE.txt)
 
-# 4)Videos
+# 4)Video práctica
+En el siguiente video se presenta tanto la simulación realizada en Robostudio como la implementación del código en el brazo robot: 
 
-Video de simulación:
+[![Alt text](https://img.youtube.com/vi/YbTLwwgagL8/0.jpg)](https://www.youtube.com/watch?v=YbTLwwgagL8)
 
-[![Alt text](https://img.youtube.com/vi/tDmf5JhMdNk/0.jpg)](https://www.youtube.com/watch?v=tDmf5JhMdNk)
-
-El video de implementación
-
-[![Alt text](https://img.youtube.com/vi/eaP0EiD75ls/0.jpg)](https://youtube.com/shorts/eaP0EiD75ls)
 
