@@ -26,8 +26,9 @@ El código empleado para la realización del laboratorio "RAPID CODE", se encuen
 
 Video de simulación:
 
+[![Alt text](https://img.youtube.com/vi/tDmf5JhMdNk/0.jpg)](https://www.youtube.com/watch?v=tDmf5JhMdNk)
 
 El video de implementación
 
-[![Alt text](https://img.youtube.com/vi/eHptf9mHE9Y/0.jpg)](https://youtube.com/shorts/eHptf9mHE9Y)
+[![Alt text](https://img.youtube.com/vi/eaP0EiD75ls/0.jpg)](https://youtube.com/shorts/eaP0EiD75ls)
 
